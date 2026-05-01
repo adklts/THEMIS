@@ -26,6 +26,10 @@ The framework evaluates models across four key dimensions:
 
 - **Fairness**
   - Performance consistency across subgroups
+ 
+- **Calibration**
+  - Expected Calibration Error (ECE)
+  - Reliability of probabilistic predictions
 
 - **Interpretability**
   - Feature importance analysis (permutation importance)
