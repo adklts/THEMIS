@@ -1,4 +1,4 @@
-# 🧠 AI Trustworthiness Evaluation Framework
+# 🧠 AI Trustworthiness Evaluation Framework THEMIS
 
 A structured framework for evaluating the **trustworthiness of machine learning models** in high-stakes domains such as healthcare decision support systems.
 
